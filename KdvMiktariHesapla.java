@@ -16,6 +16,8 @@ public class KdvMiktariHesapla {
         } else { // D
             // %20kdv var
         }
+        System.out.println(urunFiyat);
+        girdi.close();
 
     }
 }
